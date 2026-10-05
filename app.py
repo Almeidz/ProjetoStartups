@@ -6,6 +6,8 @@ import plotly.graph_objects as go
 
 st.set_page_config(
     page_title="Radar de Startups Brasil",
+    st.markdown("### Lucas de Almeida Brugger Cavalcante"),
+    st.caption("Linguagem de Programação • Professor: Louzada • G1 — 2026")
     page_icon="🚀",
     layout="wide"
 )
