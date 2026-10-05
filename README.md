@@ -5,6 +5,10 @@ Projeto da Avaliação G1 da disciplina **Linguagem de Programação — Anális
 Aluno: Lucas de Almeida Brugger Cavalcante
 Professor:Alexandre Neves Louzada
 
+# Links
+**Dashboard**: https://projetostartups-4yahmmhrmcgrf4aojyewbx.streamlit.app/
+**Pages**: https://almeidz.github.io/ProjetoStartups/
+
 ## Pergunta de negócio
 
 **Como investimento, setor, tecnologia e localização se relacionam com o desempenho financeiro das startups brasileiras?**
@@ -67,32 +71,3 @@ projeto-g1-startups-brasil/
 pip install -r requirements.txt
 streamlit run app.py
 ```
-
-Depois abra o endereço mostrado pelo Streamlit.
-
-## Publicação
-
-### GitHub
-Envie todo o conteúdo deste projeto para um repositório GitHub.
-
-### GitHub Pages
-Ative o GitHub Pages usando o arquivo `index.html`.
-
-### Streamlit Community Cloud
-Conecte o repositório GitHub ao Streamlit Community Cloud e selecione:
-
-```text
-app.py
-```
-
-## Entregas
-
-- Link do repositório GitHub;
-- Link do GitHub Pages;
-- Link do dashboard Streamlit;
-- arquivo `.ipynb`;
-- código-fonte do dashboard.
-
-## Observação
-
-Os links públicos só existirão depois da publicação do projeto. Após criar o repositório, substitua os endereços indicados no `index.html` pelos seus links reais.
