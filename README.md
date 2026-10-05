@@ -2,11 +2,13 @@
 # 🚀 Radar de Startups Brasil
 Projeto da Avaliação G1 da disciplina **Linguagem de Programação — Análise e Visualização de Dados com Python**.
 
-Aluno: Lucas de Almeida Brugger Cavalcante
+Aluno: Lucas de Almeida Brugger Cavalcante 
+ 
 Professor:Alexandre Neves Louzada
 
 # Links
 **Dashboard**: https://projetostartups-4yahmmhrmcgrf4aojyewbx.streamlit.app/
+ 
 **Pages**: https://almeidz.github.io/ProjetoStartups/
 
 ## Pergunta de negócio
